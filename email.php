@@ -9,6 +9,7 @@ $to = "marcela.tradutora@gmail.com";
 $subject = "Mensagem - Site Brody Tradução";
 $body = "Nome: ".$_POST['name']. "\n".
         "Email: ".$_POST['mail']."\n".
+        "Email: ".$_POST['number']."\n".
         "Mensagem: ".$_POST['message'];
 
 $header = "From: marcela.tradutora@gmail.com"."\n".
