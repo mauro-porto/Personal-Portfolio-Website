@@ -336,7 +336,7 @@ section .title::after {
   margin-right: 10px;
 }
 
-/* .video-container {
+.video-container {
   position: relative;
   width: 100%;
   padding-bottom: 56.25%;
@@ -349,7 +349,7 @@ section .title::after {
   left: 0;
   width: 100%;
   height: 100%;
-} */
+}
 
 /* teams section styling */
 
