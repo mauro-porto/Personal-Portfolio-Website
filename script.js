@@ -63,3 +63,9 @@ $(document).ready(function () {
     },
   });
 });
+
+// code form
+document.querySelector('#btn-form').addEventListener('click', function () {
+  alert('Mensagem Enviada!');
+  document.querySelector('#form-bar').submit();
+});
